@@ -1,0 +1,20 @@
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\bin\Debug\Automatska rampa.exe.config
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\bin\Debug\Automatska rampa.exe
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\bin\Debug\Automatska rampa.pdb
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\obj\Debug\Automatska rampa.csprojAssemblyReference.cache
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\obj\Debug\Automatska_rampa.Form1.resources
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\obj\Debug\Automatska_rampa.Properties.Resources.resources
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\obj\Debug\Automatska rampa.csproj.GenerateResource.cache
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\obj\Debug\Automatska rampa.csproj.CoreCompileInputs.cache
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\obj\Debug\Automatska rampa.exe
+C:\Users\dferenac\AppData\Local\Temporary Projects\Automatska rampa\obj\Debug\Automatska rampa.pdb
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\bin\Debug\Automatska rampa.exe.config
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\bin\Debug\Automatska rampa.exe
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\bin\Debug\Automatska rampa.pdb
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\obj\Debug\Automatska rampa.csprojAssemblyReference.cache
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\obj\Debug\Automatska_rampa.Form1.resources
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\obj\Debug\Automatska_rampa.Properties.Resources.resources
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\obj\Debug\Automatska rampa.csproj.GenerateResource.cache
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\obj\Debug\Automatska rampa.csproj.CoreCompileInputs.cache
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\obj\Debug\Automatska rampa.exe
+C:\Users\dferenac\source\repos\Automatska rampa\Automatska rampa\obj\Debug\Automatska rampa.pdb
